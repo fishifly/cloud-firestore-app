@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firestore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# cloud-firestore-app
+This app uses CRUD to show how to use Cloud firestore with Angular 5
+>>>>>>> 50bc0d30ba8b0a012341a11be7a8bac93153780d
