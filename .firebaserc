@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "firestore-app-e4db1",
+    "staging": "firestore-app-e4db1"
+  }
+}
